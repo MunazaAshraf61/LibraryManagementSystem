@@ -1,4 +1,4 @@
-# Library Management System
+# Library Management System (Python OOP Project)
 
 ## About the Project
 
@@ -37,10 +37,9 @@ The project uses object-oriented programming concepts and a CSV file to store bo
 
 - `library_management.py` – contains the Python code for the project.
 - `books.csv` – stores book details and their availability status.
-- `output.png` – screenshot showing the program running.
+- `OUTPUT1.png,OUTPUT2.Png,OUTPUT3.Png,OUTPUT4.Png` – screenshot showing the program running.
 - `README.md` – provides information about the project.
 
-*Note: Use your actual Python filename and screenshot filename if they are different.*
 
 ## How to Run the Project
 
