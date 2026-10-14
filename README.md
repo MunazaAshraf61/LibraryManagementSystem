@@ -35,13 +35,6 @@ The project uses object-oriented programming concepts and a CSV file to store bo
 
 ## Files in the Project
 Project Files
-LibraryManagementSystem/
-│
-├── LibrarytManagementSystem.py
-├── books.csv
-├── OUTPUT1.png,OUTPUT2.Png,OUTPUT3.Png,OUTPUT4.Png
-└── README.md
-
 
 - `library_management.py` – contains the Python code for the project.
 - `books.csv` – stores book details and their availability status.
