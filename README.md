@@ -35,33 +35,26 @@ The project uses object-oriented programming concepts and a CSV file to store bo
 
 ## Files in the Project
 
+
+Project Files
+LibraryManagementSystem/
+│
+├── LibrarytManagementSystem.py
+├── books.csv
+├── OUTPUT1.png,OUTPUT2.Png,OUTPUT3.Png,OUTPUT4.Png
+└── README.md
+
 - `library_management.py` – contains the Python code for the project.
 - `books.csv` – stores book details and their availability status.
 - `OUTPUT1.png,OUTPUT2.Png,OUTPUT3.Png,OUTPUT4.Png` – screenshot showing the program running.
 - `README.md` – provides information about the project.
 
 
-## How to Run the Project
-
-1. Install Python 3 on your computer.
-2. Download or clone this repository.
-3. Open the project folder in your terminal or command prompt.
-4. Run the following command:
-
-   ```bash
-   python library_management.py
-   ```
-
-5. Follow the menu displayed on the screen to perform different operations.
-
 ## How Data Is Stored
 
 Book details are saved in `books.csv`. When the program starts, it loads the previously saved records. This allows book information and availability status to remain saved between program sessions.
 
-## Limitations
 
-This is a basic project created for learning Python. It currently focuses on managing books and their availability. Student records and information about which student has borrowed a particular book are not fully connected to the menu system.
+Author: Munaza
 
-## Conclusion
-
-Building this project helped me practise Python programming, object-oriented programming, CSV file handling, and exception handling while creating a basic library management system.
+Project: Student Management System using Python
